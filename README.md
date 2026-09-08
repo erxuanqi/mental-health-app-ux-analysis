@@ -77,10 +77,9 @@ This level compares high-rating and low-rating reviews, extracts keywords using 
 A refined rule-based pain point classification was applied to low-rating reviews to identify recurring UX issues, including pricing and subscription problems, technical issues, usability barriers, account or login problems, content effectiveness concerns, privacy and trust concerns, and customer support issues.
 
 ### Level 3: Topic Modelling
-
 Status: Completed
 
-This level uses TF-IDF and NMF topic modelling to explore recurring themes in low-rating mental health app reviews. The automatically discovered topics broadly align with the Level 2 pain-point categories, including pricing, technical issues, account/login problems, usability barriers, and perceived service effectiveness.
+This level uses TF-IDF and NMF topic modelling to explore recurring themes in low-rating mental health app reviews. A refined NMF model with project-specific stopwords was added to improve topic interpretability. The automatically discovered topics broadly align with the Level 2 pain-point categories, including pricing, technical issues, account/login problems, usability barriers, and perceived service effectiveness.
 
 ### Level 4: Transformer-assisted Sentiment and Classification Analysis
 
