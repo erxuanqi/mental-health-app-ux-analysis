@@ -52,6 +52,35 @@ The project will produce:
 - Design implications report
 - A sample dataset or dataset source link
 
+## Analysis Roadmap
+
+This project is designed as a staged analysis, starting from core Python-based user review analysis and leaving space for more advanced NLP and machine learning extensions.
+
+### Level 1: Data Cleaning and Exploratory Analysis
+Status: Planned
+
+This level focuses on loading the dataset, cleaning public app review data, exploring rating distributions, comparing apps, and visualising basic user feedback patterns.
+
+### Level 2: TF-IDF, Pain Point Classification, and Design Implications
+Status: Planned
+
+This level compares high-rating and low-rating reviews, extracts keywords using TF-IDF, identifies recurring UX pain points, and translates findings into design implications for digital mental health products.
+
+### Level 3: BERTopic Topic Modelling
+Status: Planned
+
+This optional level uses unsupervised topic modelling to validate and enrich the pain-point categories identified in Level 2.
+
+### Level 4: Transformer-assisted Sentiment and Classification Analysis
+Status: Planned
+
+This optional level uses pre-trained transformer models to support sentiment analysis and pain-point classification.
+
+### Level 5: BERT Fine-tuning for Rating Classification
+Status: Future work
+
+This optional level explores whether review text can be used to predict low-rating versus high-rating reviews.
+
 ## Project Status
 
 In progress.
