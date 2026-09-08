@@ -79,6 +79,10 @@ This optional level uses pre-trained transformer models to support sentiment ana
 ### Level 5: BERT Fine-tuning for Rating Classification
 Status: Future work
 
+## Ethical Considerations
+
+This project uses a publicly available mental health app review dataset for educational and portfolio purposes. The analysis focuses on aggregated UX patterns rather than individual users. Full raw review data is not redistributed in this repository; only summary outputs, figures, and derived analysis results are included.
+
 This optional level explores whether review text can be used to predict low-rating versus high-rating reviews.
 
 ## Project Status
