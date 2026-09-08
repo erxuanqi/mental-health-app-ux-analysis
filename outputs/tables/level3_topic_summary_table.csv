@@ -1,0 +1,11 @@
+topic_id,review_count,percentage,top_keywords,average_rating,interpreted_topic,related_level2_pain_point
+0,5652,15.37,"pay, app, like, good, really, thing, premium, free, im, meditation, sleep, used, great, locked, make",1.35,"Pricing, premium access, and locked features",Pricing / Subscription
+1,4724,12.85,"phone, app, uninstall, setting, update, installed, google, app phone, apps, stop, permission, remove, disable, useless, install",1.11,"Phone settings, installation, and app removal issues",Technical Issues / Usability
+7,4306,11.71,"help, people, mental, health, mental health, money, need, therapist, listener, like, feel, issue, talk, really, make",1.23,Mental health support needs and perceived service value,Content Quality / Effectiveness
+3,3960,10.77,"subscription, cancel, charged, refund, service, cancel subscription, year, cancelled, customer, month, charge, money, google, email, customer service",1.12,"Subscription cancellation, refunds, and unexpected charges",Pricing / Subscription
+2,3192,8.68,"free, trial, free trial, day, day free, day trial, card, free app, app free, free day, try, payment, credit, credit card, charged",1.18,"Free trial, payment card, and trial conversion",Pricing / Subscription
+8,3170,8.62,"time, waste, waste time, dont waste, day, money, therapist, tried, ive, dont, app, waste money, multiple, time money, screen",1.25,"Wasted time, wasted money, and failed therapy experience",Content Quality / Effectiveness + Pricing / Subscription
+6,3153,8.58,"use, use app, app, dont use, app use, pay use, able use, want use, able, use free, used use, dont, used, app dont, use phone",1.25,Basic usability and inability to use the app,Usability / Interface
+5,3144,8.55,"account, let, wont, sign, wont let, try, wrong, email, log, tried, went, password, went wrong, say, create",1.19,"Account, login, email, and password problems",Account / Login Issues
+4,2892,7.87,"dont, want, dont want, need, dont need, know, want app, uninstall, dont know, app dont, dont like, delete, want phone, like, remove",1.18,"General rejection, unwanted app experience, and deletion intent",Other / Unclassified
+9,2568,6.99,"work, doesnt, doesnt work, app doesnt, app, open, app work, screen, notification, properly, update, mode, button, work properly, block",1.3,"Technical malfunction, app not working, and update problems",Technical Issues

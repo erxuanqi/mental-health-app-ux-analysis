@@ -1,0 +1,22 @@
+
+## Level 3: Topic Modelling
+
+In Level 3, topic modelling was applied to low-rating mental health app reviews to explore whether recurring user experience problems could be identified automatically from review text.
+
+After basic cleaning, 42,322 low-rating reviews were identified. Reviews with fewer than 5 words were removed to improve topic modelling quality, leaving 36,761 reviews for analysis.
+
+A TF-IDF + NMF topic modelling approach was used. NMF was selected because it is stable, interpretable, and suitable for extracting keyword-based topics from short app review texts.
+
+The model identified 10 topics. These topics were manually interpreted by examining the top keywords and representative reviews. Several automatically discovered topics aligned with the Level 2 rule-based pain point categories.
+
+Key topic modelling findings:
+
+- Pricing and subscription issues appeared across multiple topics, including premium access, free trials, cancellation, refunds, and unexpected charges.
+- Technical problems appeared in topics related to installation, updates, notifications, screens, buttons, and cases where the app did not work properly.
+- Account and login problems appeared as a distinct topic involving sign-in, email, password, and account creation issues.
+- Usability problems appeared in topics where users described being unable to use the app or not wanting to continue using it.
+- Content quality and perceived effectiveness appeared in topics related to mental health support needs, therapy experience, wasted time, and perceived lack of value.
+
+Overall, the topic modelling results provide additional support for the Level 2 pain point classification. While the model does not perfectly reproduce the rule-based categories, it independently surfaces similar user experience problems from low-rating review text.
+
+This strengthens the project’s main argument: low-rating mental health app reviews contain recurring UX pain points that can be translated into digital health and service design insights.
