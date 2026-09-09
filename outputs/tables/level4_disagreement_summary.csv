@@ -1,0 +1,3 @@
+disagreement_type,count,percentage_within_relevant_rating_group,ux_interpretation
+Low rating but predicted POSITIVE,93,9.3,"Users may like the app concept or content but give low ratings because of pricing, subscriptions, bugs, or access barriers."
+High rating but predicted NEGATIVE,231,23.1,"Users may give high ratings while still describing frustrations, or the model may misclassify mixed, sarcastic, or context-dependent reviews."

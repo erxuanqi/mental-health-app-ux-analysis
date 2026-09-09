@@ -1,0 +1,4 @@
+error_type,count,percentage_of_test_set,ux_interpretation
+Correct,731,91.38,The model prediction matches the rating-derived satisfaction label.
+High rating predicted as Low rating,47,5.88,"These reviews may contain negative words or specific frustrations despite high ratings, or may reflect mixed sentiment and short ambiguous review text."
+Low rating predicted as High rating,22,2.75,"These reviews may contain positive language despite low ratings, often reflecting mixed experiences or complaints about specific issues such as pricing, access, or bugs."

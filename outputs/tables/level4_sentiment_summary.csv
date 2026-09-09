@@ -1,0 +1,5 @@
+rating_group,NEGATIVE,POSITIVE,All
+High rating,231,769,1000
+Low rating,907,93,1000
+Neutral rating,353,147,500
+All,1491,1009,2500

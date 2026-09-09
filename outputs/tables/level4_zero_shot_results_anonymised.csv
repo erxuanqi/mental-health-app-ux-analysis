@@ -1,0 +1,301 @@
+app_name,rating,rating_group,zero_shot_pain_point_label,zero_shot_score
+happify,1,Low rating,technical issue,0.35526326298713684
+remente,1,Low rating,pricing or subscription issue,0.8718216419219971
+welltory,1,Low rating,unclear issue,0.5344750881195068
+anxietyrelief,1,Low rating,content quality or effectiveness issue,0.29703935980796814
+breeze,1,Low rating,unclear issue,0.335890531539917
+calm,2,Low rating,unclear issue,0.48018646240234375
+calm,1,Low rating,unclear issue,0.2658397853374481
+sevencups,1,Low rating,unclear issue,0.5564985275268555
+digitalwellbeing,1,Low rating,usability or interface issue,0.34256523847579956
+gratitude,1,Low rating,usability or interface issue,0.3795497715473175
+digitalwellbeing,1,Low rating,usability or interface issue,0.3116436004638672
+headspace,1,Low rating,unclear issue,0.48484498262405396
+calm,2,Low rating,pricing or subscription issue,0.5938758850097656
+fabulous,1,Low rating,pricing or subscription issue,0.4003530740737915
+digitalwellbeing,1,Low rating,privacy or trust issue,0.29322779178619385
+fabulous,1,Low rating,unclear issue,0.7212042212486267
+fabulous,1,Low rating,unclear issue,0.48675915598869324
+fabulous,1,Low rating,unclear issue,0.33370548486709595
+calm,2,Low rating,usability or interface issue,0.3330370783805847
+clarity,1,Low rating,unclear issue,0.47109267115592957
+headspace,1,Low rating,pricing or subscription issue,0.5491392612457275
+reflectly,1,Low rating,usability or interface issue,0.5071098804473877
+digitalwellbeing,1,Low rating,unclear issue,0.4686166048049927
+talklife,1,Low rating,unclear issue,0.4772997498512268
+fabulous,1,Low rating,unclear issue,0.4282037317752838
+fabulous,1,Low rating,unclear issue,0.441112220287323
+sevencups,1,Low rating,unclear issue,0.8046680092811584
+talklife,1,Low rating,unclear issue,0.6036583781242371
+digitalwellbeing,1,Low rating,unclear issue,0.34913796186447144
+breeze,1,Low rating,usability or interface issue,0.26480117440223694
+minddiagnostics,1,Low rating,usability or interface issue,0.6117196083068848
+digitalwellbeing,1,Low rating,usability or interface issue,0.8376373648643494
+reflectly,1,Low rating,unclear issue,0.284210205078125
+headspace,2,Low rating,unclear issue,0.7833485007286072
+pixels,2,Low rating,content quality or effectiveness issue,0.47865617275238037
+fabulous,1,Low rating,unclear issue,0.22026267647743225
+digitalwellbeing,1,Low rating,usability or interface issue,0.2302236706018448
+digitalwellbeing,1,Low rating,usability or interface issue,0.5400010943412781
+talklife,1,Low rating,content quality or effectiveness issue,0.3041900098323822
+digitalwellbeing,1,Low rating,unclear issue,0.4901582598686218
+talkspace,1,Low rating,content quality or effectiveness issue,0.4269397556781769
+finch,2,Low rating,pricing or subscription issue,0.3916759788990021
+intellect,1,Low rating,unclear issue,0.4237975776195526
+talkspace,1,Low rating,unclear issue,0.35065579414367676
+reflectly,1,Low rating,unclear issue,0.33682703971862793
+healthyminds,1,Low rating,account or login issue,0.5334059596061707
+reflectly,1,Low rating,account or login issue,0.4859393835067749
+digitalwellbeing,2,Low rating,usability or interface issue,0.3790735602378845
+digitalwellbeing,1,Low rating,unclear issue,0.5809729695320129
+sevencups,1,Low rating,pricing or subscription issue,0.3329404294490814
+sanvello,1,Low rating,unclear issue,0.5525514483451843
+digitalwellbeing,1,Low rating,usability or interface issue,0.1909729391336441
+headspace,1,Low rating,unclear issue,0.24986137449741364
+headspace,1,Low rating,pricing or subscription issue,0.5887030363082886
+fabulous,1,Low rating,unclear issue,0.537775993347168
+digitalwellbeing,1,Low rating,content quality or effectiveness issue,0.43054983019828796
+minddiagnostics,2,Low rating,content quality or effectiveness issue,0.1909351497888565
+fabulous,1,Low rating,unclear issue,0.35641130805015564
+breeze,2,Low rating,unclear issue,0.325002521276474
+reflectly,1,Low rating,pricing or subscription issue,0.5257841348648071
+sevencups,1,Low rating,unclear issue,0.5849201083183289
+digitalwellbeing,1,Low rating,usability or interface issue,0.38939353823661804
+digitalwellbeing,1,Low rating,technical issue,0.31334465742111206
+fabulous,2,Low rating,usability or interface issue,0.5135451555252075
+headspace,1,Low rating,pricing or subscription issue,0.4644343852996826
+breeze,1,Low rating,unclear issue,0.3601444363594055
+calm,1,Low rating,unclear issue,0.725936770439148
+headspace,1,Low rating,account or login issue,0.5114648342132568
+happify,2,Low rating,unclear issue,0.8384336233139038
+headspace,1,Low rating,usability or interface issue,0.5826922059059143
+digitalwellbeing,1,Low rating,unclear issue,0.5369610786437988
+sevencups,1,Low rating,unclear issue,0.539686381816864
+digitalwellbeing,1,Low rating,unclear issue,0.49086737632751465
+fabulous,2,Low rating,unclear issue,0.3038081228733063
+digitalwellbeing,1,Low rating,unclear issue,0.6906319260597229
+digitalwellbeing,1,Low rating,usability or interface issue,0.4730381667613983
+digitalwellbeing,1,Low rating,usability or interface issue,0.3803832232952118
+talkspace,1,Low rating,account or login issue,0.5590294003486633
+headspace,2,Low rating,unclear issue,0.3213402032852173
+calm,1,Low rating,unclear issue,0.3840874433517456
+digitalwellbeing,1,Low rating,unclear issue,0.36128750443458557
+digitalwellbeing,1,Low rating,unclear issue,0.5039636492729187
+digitalwellbeing,1,Low rating,unclear issue,0.5644911527633667
+digitalwellbeing,1,Low rating,unclear issue,0.4802324175834656
+calm,1,Low rating,pricing or subscription issue,0.37643003463745117
+sanvello,2,Low rating,unclear issue,0.787314236164093
+pixels,2,Low rating,usability or interface issue,0.6661375164985657
+calm,1,Low rating,unclear issue,0.7291823029518127
+intellect,1,Low rating,privacy or trust issue,0.27889928221702576
+intellect,1,Low rating,pricing or subscription issue,0.6375322937965393
+breeze,1,Low rating,pricing or subscription issue,0.7814574241638184
+talklife,2,Low rating,account or login issue,0.6115496158599854
+sanvello,2,Low rating,usability or interface issue,0.442231148481369
+woebot,1,Low rating,unclear issue,0.3830561637878418
+digitalwellbeing,1,Low rating,usability or interface issue,0.2770618796348572
+headspace,2,Low rating,usability or interface issue,0.3906618058681488
+talkspace,1,Low rating,unclear issue,0.7325358390808105
+cerebral,1,Low rating,unclear issue,0.38983356952667236
+digitalwellbeing,1,Low rating,unclear issue,0.34907519817352295
+digitalwellbeing,1,Low rating,content quality or effectiveness issue,0.3419649302959442
+daylio,1,Low rating,pricing or subscription issue,0.847489058971405
+breeze,1,Low rating,pricing or subscription issue,0.8016797304153442
+reflectly,1,Low rating,usability or interface issue,0.34232276678085327
+teencounseling,1,Low rating,unclear issue,0.7904675006866455
+digitalwellbeing,1,Low rating,privacy or trust issue,0.24243348836898804
+headspace,1,Low rating,unclear issue,0.35472169518470764
+chiku,1,Low rating,account or login issue,0.46167445182800293
+woebot,2,Low rating,unclear issue,0.6709729433059692
+reflectly,1,Low rating,unclear issue,0.7987608909606934
+daylio,1,Low rating,unclear issue,0.23624436557292938
+cerebral,2,Low rating,technical issue,0.35765716433525085
+breeze,1,Low rating,unclear issue,0.2398359477519989
+clarity,2,Low rating,usability or interface issue,0.602592945098877
+digitalwellbeing,1,Low rating,usability or interface issue,0.35565754771232605
+fabulous,1,Low rating,unclear issue,0.46706002950668335
+headspace,1,Low rating,unclear issue,0.3786657154560089
+digitalwellbeing,1,Low rating,unclear issue,0.33779820799827576
+digitalwellbeing,1,Low rating,usability or interface issue,0.41693004965782166
+daylio,1,Low rating,unclear issue,0.7519661784172058
+headspace,2,Low rating,unclear issue,0.749574601650238
+fabulous,1,Low rating,usability or interface issue,0.4919469356536865
+welltory,1,Low rating,usability or interface issue,0.311685711145401
+calm,1,Low rating,unclear issue,0.40335923433303833
+headspace,1,Low rating,pricing or subscription issue,0.3968104124069214
+reflectly,1,Low rating,account or login issue,0.44248467683792114
+regain,1,Low rating,content quality or effectiveness issue,0.25048255920410156
+breeze,1,Low rating,unclear issue,0.5806503295898438
+reflectly,1,Low rating,usability or interface issue,0.4299030303955078
+digitalwellbeing,1,Low rating,usability or interface issue,0.591294527053833
+calm,1,Low rating,unclear issue,0.6348369717597961
+fabulous,1,Low rating,pricing or subscription issue,0.6998410224914551
+digitalwellbeing,1,Low rating,unclear issue,0.588209867477417
+breeze,1,Low rating,pricing or subscription issue,0.8087172508239746
+digitalwellbeing,1,Low rating,unclear issue,0.4289489984512329
+reflectly,1,Low rating,pricing or subscription issue,0.46535709500312805
+fabulous,1,Low rating,pricing or subscription issue,0.4702811539173126
+digitalwellbeing,1,Low rating,usability or interface issue,0.5213737487792969
+headspace,1,Low rating,usability or interface issue,0.2961428165435791
+calm,2,Low rating,unclear issue,0.32529589533805847
+calm,1,Low rating,pricing or subscription issue,0.3395184874534607
+digitalwellbeing,1,Low rating,usability or interface issue,0.2933424711227417
+pixels,1,Low rating,usability or interface issue,0.283622682094574
+iam,1,Low rating,pricing or subscription issue,0.44010722637176514
+digitalwellbeing,1,Low rating,technical issue,0.3149738609790802
+calm,2,Low rating,unclear issue,0.29679036140441895
+digitalwellbeing,1,Low rating,unclear issue,0.5436400771141052
+fabulous,1,Low rating,pricing or subscription issue,0.6325063705444336
+woebot,2,Low rating,content quality or effectiveness issue,0.46069836616516113
+headspace,1,Low rating,pricing or subscription issue,0.4563857316970825
+cerebral,1,Low rating,content quality or effectiveness issue,0.3047788143157959
+reflectly,2,Low rating,unclear issue,0.5305683612823486
+headspace,2,Low rating,unclear issue,0.5331517457962036
+cerebral,1,Low rating,unclear issue,0.41034644842147827
+digitalwellbeing,1,Low rating,content quality or effectiveness issue,0.45419713854789734
+fabulous,1,Low rating,pricing or subscription issue,0.454076886177063
+digitalwellbeing,1,Low rating,unclear issue,0.5723604559898376
+daylio,2,Low rating,account or login issue,0.5442432165145874
+reflectly,2,Low rating,pricing or subscription issue,0.6853482723236084
+headspace,1,Low rating,account or login issue,0.719536304473877
+daylio,2,Low rating,usability or interface issue,0.544883131980896
+sevencups,1,Low rating,unclear issue,0.3174125850200653
+reflectly,1,Low rating,unclear issue,0.8082197308540344
+headspace,1,Low rating,pricing or subscription issue,0.8446575403213501
+fabulous,1,Low rating,pricing or subscription issue,0.3195521831512451
+calm,1,Low rating,unclear issue,0.3945184051990509
+headspace,1,Low rating,pricing or subscription issue,0.6356239318847656
+talkspace,1,Low rating,account or login issue,0.5601367950439453
+fabulous,1,Low rating,unclear issue,0.4147161841392517
+teencounseling,2,Low rating,unclear issue,0.46786847710609436
+cerebral,1,Low rating,usability or interface issue,0.5465777516365051
+besthelp,1,Low rating,usability or interface issue,0.40879693627357483
+sharecare,2,Low rating,unclear issue,0.4380853772163391
+amaha,2,Low rating,pricing or subscription issue,0.7592227458953857
+breeze,1,Low rating,usability or interface issue,0.4527779817581177
+headspace,2,Low rating,unclear issue,0.40848007798194885
+digitalwellbeing,1,Low rating,unclear issue,0.689369797706604
+welltory,2,Low rating,unclear issue,0.7346819043159485
+talkspace,1,Low rating,pricing or subscription issue,0.2386510819196701
+calm,1,Low rating,privacy or trust issue,0.3537571430206299
+digitalwellbeing,1,Low rating,unclear issue,0.43743717670440674
+headspace,1,Low rating,account or login issue,0.3092641830444336
+digitalwellbeing,1,Low rating,usability or interface issue,0.44038164615631104
+calm,1,Low rating,unclear issue,0.557293713092804
+digitalwellbeing,1,Low rating,content quality or effectiveness issue,0.233587846159935
+fabulous,1,Low rating,pricing or subscription issue,0.8578131198883057
+teencounseling,1,Low rating,unclear issue,0.23697926104068756
+besthelp,1,Low rating,content quality or effectiveness issue,0.5377298593521118
+calm,1,Low rating,unclear issue,0.7109904885292053
+breeze,2,Low rating,unclear issue,0.42306023836135864
+clarity,1,Low rating,unclear issue,0.6682336926460266
+digitalwellbeing,1,Low rating,privacy or trust issue,0.5016462206840515
+stoppanic,1,Low rating,unclear issue,0.844144344329834
+iam,2,Low rating,pricing or subscription issue,0.6870790123939514
+headspace,2,Low rating,unclear issue,0.4805976152420044
+headspace,1,Low rating,unclear issue,0.3315264880657196
+whatsup,1,Low rating,usability or interface issue,0.5334402918815613
+voice,1,Low rating,unclear issue,0.27397847175598145
+talkspace,1,Low rating,pricing or subscription issue,0.30729588866233826
+reflectly,1,Low rating,pricing or subscription issue,0.45592379570007324
+digitalwellbeing,1,Low rating,privacy or trust issue,0.7508295774459839
+teencounseling,1,Low rating,unclear issue,0.4283294677734375
+talklife,1,Low rating,usability or interface issue,0.5112467408180237
+fabulous,1,Low rating,pricing or subscription issue,0.5839535593986511
+headspace,1,Low rating,pricing or subscription issue,0.30619895458221436
+digitalwellbeing,1,Low rating,usability or interface issue,0.33619728684425354
+digitalwellbeing,1,Low rating,usability or interface issue,0.28787362575531006
+headspace,1,Low rating,unclear issue,0.47099000215530396
+youper,1,Low rating,unclear issue,0.25628480315208435
+headspace,1,Low rating,usability or interface issue,0.26100507378578186
+calm,1,Low rating,pricing or subscription issue,0.2705475687980652
+headspace,2,Low rating,unclear issue,0.8769251704216003
+calm,1,Low rating,account or login issue,0.4215596914291382
+talklife,1,Low rating,usability or interface issue,0.20745767652988434
+talkspace,1,Low rating,unclear issue,0.433487206697464
+headspace,1,Low rating,unclear issue,0.2947455048561096
+digitalwellbeing,2,Low rating,unclear issue,0.80919349193573
+digitalwellbeing,1,Low rating,usability or interface issue,0.2822501063346863
+talklife,1,Low rating,content quality or effectiveness issue,0.45221543312072754
+headspace,2,Low rating,pricing or subscription issue,0.8201500773429871
+sevencups,1,Low rating,unclear issue,0.3836915194988251
+digitalwellbeing,1,Low rating,usability or interface issue,0.3031361401081085
+sharecare,2,Low rating,unclear issue,0.7539953589439392
+digitalwellbeing,1,Low rating,usability or interface issue,0.3382226526737213
+headspace,2,Low rating,account or login issue,0.4863545000553131
+breeze,1,Low rating,unclear issue,0.8762040138244629
+digitalwellbeing,2,Low rating,usability or interface issue,0.30504700541496277
+headspace,1,Low rating,pricing or subscription issue,0.64360511302948
+minddoc,2,Low rating,unclear issue,0.786087155342102
+talklife,1,Low rating,content quality or effectiveness issue,0.5280282497406006
+headspace,2,Low rating,pricing or subscription issue,0.3025776147842407
+sevencups,1,Low rating,technical issue,0.5608748197555542
+calm,1,Low rating,usability or interface issue,0.364132821559906
+blockapp,1,Low rating,usability or interface issue,0.2634445130825043
+dailybean,2,Low rating,usability or interface issue,0.43563172221183777
+fabulous,1,Low rating,unclear issue,0.4529857635498047
+welltory,1,Low rating,unclear issue,0.41875046491622925
+breeze,2,Low rating,unclear issue,0.5308672189712524
+digitalwellbeing,1,Low rating,usability or interface issue,0.2826482951641083
+reflectly,1,Low rating,unclear issue,0.4308302402496338
+digitalwellbeing,1,Low rating,usability or interface issue,0.32094502449035645
+fabulous,2,Low rating,unclear issue,0.46060246229171753
+teencounseling,2,Low rating,unclear issue,0.4606357514858246
+amaha,1,Low rating,unclear issue,0.6465173959732056
+digitalwellbeing,1,Low rating,unclear issue,0.3360331058502197
+bearable,1,Low rating,content quality or effectiveness issue,0.36547279357910156
+sharecare,2,Low rating,unclear issue,0.6309294700622559
+fabulous,1,Low rating,unclear issue,0.4944576919078827
+bearable,1,Low rating,privacy or trust issue,0.9304810762405396
+headspace,1,Low rating,usability or interface issue,0.42891302704811096
+fabulous,1,Low rating,pricing or subscription issue,0.3709963262081146
+fabulous,2,Low rating,unclear issue,0.5526599287986755
+digitalwellbeing,1,Low rating,unclear issue,0.47031447291374207
+breeze,1,Low rating,unclear issue,0.391410768032074
+digitalwellbeing,1,Low rating,usability or interface issue,0.3721767067909241
+digitalwellbeing,1,Low rating,unclear issue,0.44880932569503784
+headspace,1,Low rating,usability or interface issue,0.356992244720459
+stressscan,1,Low rating,unclear issue,0.25240373611450195
+digitalwellbeing,1,Low rating,usability or interface issue,0.25183138251304626
+digitalwellbeing,1,Low rating,unclear issue,0.7002369165420532
+headspace,1,Low rating,account or login issue,0.4897471070289612
+talkspace,1,Low rating,privacy or trust issue,0.6636584401130676
+intellect,1,Low rating,unclear issue,0.4053042531013489
+sevencups,1,Low rating,unclear issue,0.24924631416797638
+moodflow,1,Low rating,unclear issue,0.5745254158973694
+cbttools,1,Low rating,unclear issue,0.49946072697639465
+fabulous,1,Low rating,unclear issue,0.26636552810668945
+bearable,1,Low rating,unclear issue,0.8824205994606018
+sevencups,1,Low rating,account or login issue,0.8381615877151489
+minddoc,2,Low rating,unclear issue,0.33333250880241394
+digitalwellbeing,1,Low rating,usability or interface issue,0.7299454212188721
+sevencups,1,Low rating,unclear issue,0.31700462102890015
+digitalwellbeing,1,Low rating,privacy or trust issue,0.578252375125885
+cerebral,1,Low rating,content quality or effectiveness issue,0.5642856955528259
+fabulous,2,Low rating,usability or interface issue,0.599736750125885
+calm,1,Low rating,pricing or subscription issue,0.39412567019462585
+digitalwellbeing,1,Low rating,technical issue,0.25789570808410645
+headspace,2,Low rating,usability or interface issue,0.34492847323417664
+calm,1,Low rating,pricing or subscription issue,0.6847944855690002
+cerebral,1,Low rating,privacy or trust issue,0.6593319773674011
+headspace,2,Low rating,unclear issue,0.28482478857040405
+digitalwellbeing,1,Low rating,privacy or trust issue,0.27000677585601807
+headspace,1,Low rating,content quality or effectiveness issue,0.2633702754974365
+digitalwellbeing,1,Low rating,technical issue,0.379762202501297
+fabulous,1,Low rating,unclear issue,0.6870822906494141
+calm,1,Low rating,unclear issue,0.7079843878746033
+digitalwellbeing,1,Low rating,unclear issue,0.4615790843963623
+iam,1,Low rating,pricing or subscription issue,0.4407880902290344
+digitalwellbeing,1,Low rating,unclear issue,0.5395522117614746
+finch,1,Low rating,usability or interface issue,0.3395625054836273
+minddoc,2,Low rating,unclear issue,0.8097688555717468
+gratitude,1,Low rating,unclear issue,0.3768855035305023
+fabulous,1,Low rating,pricing or subscription issue,0.312199205160141
+amaha,1,Low rating,account or login issue,0.3627188801765442
+happify,2,Low rating,unclear issue,0.7662394046783447
+teencounseling,1,Low rating,unclear issue,0.3050282597541809
+fabulous,1,Low rating,unclear issue,0.4291996359825134
+headspace,1,Low rating,account or login issue,0.5293415784835815
+cerebral,1,Low rating,unclear issue,0.7693962454795837
+sharecare,1,Low rating,unclear issue,0.5639939308166504
+digitalwellbeing,1,Low rating,unclear issue,0.29973113536834717
